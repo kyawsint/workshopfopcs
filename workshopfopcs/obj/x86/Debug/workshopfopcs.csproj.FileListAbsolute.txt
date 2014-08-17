@@ -1,0 +1,8 @@
+D:\ISS Workshop\workshopfopcs\workshopfopcs\bin\Debug\workshopfopcs.exe
+D:\ISS Workshop\workshopfopcs\workshopfopcs\bin\Debug\workshopfopcs.pdb
+D:\ISS Workshop\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.exe
+D:\ISS Workshop\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.pdb
+D:\ISS Workshop\workshopfopcs\workshopfopcs\bin\Debug\ISS.RV.LIB.dll
+D:\ISS Workshop\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.csprojResolveAssemblyReference.cache
+D:\ISS Workshop\github\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.exe
+D:\ISS Workshop\github\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.pdb
