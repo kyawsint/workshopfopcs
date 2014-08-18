@@ -9,4 +9,3 @@ D:\ISS Workshop\github\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.p
 D:\ISS Workshop\github\workshopfopcs\workshopfopcs\bin\Debug\workshopfopcs.exe
 D:\ISS Workshop\github\workshopfopcs\workshopfopcs\bin\Debug\workshopfopcs.pdb
 D:\ISS Workshop\github\workshopfopcs\workshopfopcs\bin\Debug\ISS.RV.LIB.dll
-D:\ISS Workshop\github\workshopfopcs\workshopfopcs\obj\x86\Debug\workshopfopcs.csprojResolveAssemblyReference.cache

@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>workshopfopcs.pex44</StartupObject>
+    <StartupObject>workshopfopcs.pex46</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ISS.RV.LIB, Version=2.1.5.5, Culture=neutral, PublicKeyToken=af134efd305355dd, processorArchitecture=MSIL">
@@ -50,13 +50,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="no15.cs" />
     <Compile Include="pex1.cs" />
     <Compile Include="pex10.cs" />
     <Compile Include="pex11.cs" />
     <Compile Include="pex12.cs" />
     <Compile Include="pex13.cs" />
     <Compile Include="pex14.cs" />
+    <Compile Include="pex15.cs" />
     <Compile Include="pex16.cs" />
     <Compile Include="pex17.cs" />
     <Compile Include="pex18.cs" />
@@ -89,6 +89,8 @@
     <Compile Include="pex42.cs" />
     <Compile Include="pex43.cs" />
     <Compile Include="pex44.cs" />
+    <Compile Include="pex45.cs" />
+    <Compile Include="pex46.cs" />
     <Compile Include="pex5.cs" />
     <Compile Include="pex6.cs" />
     <Compile Include="pex7.cs" />
