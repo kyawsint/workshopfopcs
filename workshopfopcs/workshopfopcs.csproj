@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>workshopfopcs.pex46</StartupObject>
+    <StartupObject>workshopfopcs.BusCase1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ISS.RV.LIB, Version=2.1.5.5, Culture=neutral, PublicKeyToken=af134efd305355dd, processorArchitecture=MSIL">
@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusCase1.cs" />
     <Compile Include="pex1.cs" />
     <Compile Include="pex10.cs" />
     <Compile Include="pex11.cs" />
